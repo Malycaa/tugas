@@ -1,0 +1,6 @@
+﻿Invoice_No,Category,Product,Quantity,Price
+INV001,Electronics,hone,3,500
+INV002,Clothing,T-Shirt,2,20
+INV003,Electronics,Laptop,1,1000
+INV004,Clothing,Jeans,5,30
+INV005,Food,Coffee,10,5
